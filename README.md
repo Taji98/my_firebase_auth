@@ -1,16 +1,6 @@
-# my_firebase_auth
+Per far Funzionare quel app:
+- bisogna Abilitare l'utenticazione da FIREBASE e seguire le linea guida di comandi da eseguire in bash
+- Dopo l'abilitazione e sostituzione di file .json non vi sono necessarie altre modifiche e si può provare l'app.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+grazie.
